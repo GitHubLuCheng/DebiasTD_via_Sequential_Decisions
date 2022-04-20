@@ -1,3 +1,6 @@
+# Bias Mitigation for Toxicity Detection via Sequential Decisions	
+Implementation of the SIGIR'22 paper: Bias Mitigation for Toxicity Detection via Sequential Decisions
+
 For the dataset, please refer to the following papers:
 
 Instagram Dataset:
@@ -8,3 +11,12 @@ Instagram Dataset:
 
 Jigsaw Dataset:
 > https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+
+### Python packages version
+* seaborn==0.11.1
+* torch==1.7.0
+* matplotlib==3.3.2
+* pandas==1.2.0
+* numpy==1.19.2
+* ipython==7.20.0
+* scikit_learn==0.24.1
